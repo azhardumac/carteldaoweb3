@@ -15,14 +15,14 @@ function Services() {
     <div className="row -mt-20">
     <div className="service-item text-center col-md-12 col-sm-12 mt-20">
       {/* <i className={`${icon} icon-simple`}></i> */}
-      <h4 className="my-3">Void Swap Value
+      <h4 className="my-3">Your Balance
 </h4>
-      <p className="mb-0">$ 321.671</p>
+      <p className="mb-0">3223123 $CARTEL</p>
     </div>
 
     <div className="service-item text-center col-md-12 col-sm-12 mt-20">
       {/* <i className={`${icon} icon-simple`}></i> */}
-      <h4 className="my-3">Obsidian Price</h4>
+      <h4 className="my-3">BUSD Earned</h4>
       <p className="mb-0">$ 0.065</p>
     </div>
     </div>
